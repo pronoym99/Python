@@ -449,6 +449,7 @@
 ## Greedy Methods
   * [Fractional Knapsack](greedy_methods/fractional_knapsack.py)
   * [Fractional Knapsack 2](greedy_methods/fractional_knapsack_2.py)
+  * [Minimum Waiting Time](greedy_methods/minimum_waiting_time.py)
   * [Optimal Merge Pattern](greedy_methods/optimal_merge_pattern.py)
 
 ## Hashes
@@ -549,6 +550,7 @@
   * [Dodecahedron](maths/dodecahedron.py)
   * [Double Factorial Iterative](maths/double_factorial_iterative.py)
   * [Double Factorial Recursive](maths/double_factorial_recursive.py)
+  * [Dual Number Automatic Differentiation](maths/dual_number_automatic_differentiation.py)
   * [Entropy](maths/entropy.py)
   * [Euclidean Distance](maths/euclidean_distance.py)
   * [Euclidean Gcd](maths/euclidean_gcd.py)
@@ -576,6 +578,7 @@
   * [Hardy Ramanujanalgo](maths/hardy_ramanujanalgo.py)
   * [Hexagonal Number](maths/hexagonal_number.py)
   * [Integration By Simpson Approx](maths/integration_by_simpson_approx.py)
+  * [Is Int Palindrome](maths/is_int_palindrome.py)
   * [Is Ip V4 Address Valid](maths/is_ip_v4_address_valid.py)
   * [Is Square Free](maths/is_square_free.py)
   * [Jaccard Similarity](maths/jaccard_similarity.py)
@@ -605,6 +608,7 @@
   * [Newton Raphson](maths/newton_raphson.py)
   * [Number Of Digits](maths/number_of_digits.py)
   * [Numerical Integration](maths/numerical_integration.py)
+  * [Odd Sieve](maths/odd_sieve.py)
   * [Perfect Cube](maths/perfect_cube.py)
   * [Perfect Number](maths/perfect_number.py)
   * [Perfect Square](maths/perfect_square.py)
@@ -631,6 +635,7 @@
   * [Radians](maths/radians.py)
   * [Radix2 Fft](maths/radix2_fft.py)
   * [Relu](maths/relu.py)
+  * [Remove Digit](maths/remove_digit.py)
   * [Runge Kutta](maths/runge_kutta.py)
   * [Segmented Sieve](maths/segmented_sieve.py)
   * Series
@@ -693,6 +698,8 @@
 
 ## Neural Network
   * [2 Hidden Layers Neural Network](neural_network/2_hidden_layers_neural_network.py)
+  * Activation Functions
+    * [Exponential Linear Unit](neural_network/activation_functions/exponential_linear_unit.py)
   * [Back Propagation Neural Network](neural_network/back_propagation_neural_network.py)
   * [Convolution Neural Network](neural_network/convolution_neural_network.py)
   * [Input Data](neural_network/input_data.py)
@@ -709,12 +716,15 @@
   * [Gauss Easter](other/gauss_easter.py)
   * [Graham Scan](other/graham_scan.py)
   * [Greedy](other/greedy.py)
+  * [Guess The Number Search](other/guess_the_number_search.py)
+  * [H Index](other/h_index.py)
   * [Least Recently Used](other/least_recently_used.py)
   * [Lfu Cache](other/lfu_cache.py)
   * [Linear Congruential Generator](other/linear_congruential_generator.py)
   * [Lru Cache](other/lru_cache.py)
   * [Magicdiamondpattern](other/magicdiamondpattern.py)
   * [Maximum Subarray](other/maximum_subarray.py)
+  * [Maximum Subsequence](other/maximum_subsequence.py)
   * [Nested Brackets](other/nested_brackets.py)
   * [Password](other/password.py)
   * [Quine](other/quine.py)
@@ -1078,6 +1088,7 @@
 
 ## Sorts
   * [Bead Sort](sorts/bead_sort.py)
+  * [Binary Insertion Sort](sorts/binary_insertion_sort.py)
   * [Bitonic Sort](sorts/bitonic_sort.py)
   * [Bogo Sort](sorts/bogo_sort.py)
   * [Bubble Sort](sorts/bubble_sort.py)
@@ -1146,7 +1157,6 @@
   * [Indian Phone Validator](strings/indian_phone_validator.py)
   * [Is Contains Unique Chars](strings/is_contains_unique_chars.py)
   * [Is Isogram](strings/is_isogram.py)
-  * [Is Palindrome](strings/is_palindrome.py)
   * [Is Pangram](strings/is_pangram.py)
   * [Is Spain National Id](strings/is_spain_national_id.py)
   * [Is Srilankan Phone Number](strings/is_srilankan_phone_number.py)
@@ -1168,6 +1178,7 @@
   * [Reverse Words](strings/reverse_words.py)
   * [Snake Case To Camel Pascal Case](strings/snake_case_to_camel_pascal_case.py)
   * [Split](strings/split.py)
+  * [String Switch Case](strings/string_switch_case.py)
   * [Text Justification](strings/text_justification.py)
   * [Top K Frequent Words](strings/top_k_frequent_words.py)
   * [Upper](strings/upper.py)
@@ -1189,7 +1200,6 @@
   * [Daily Horoscope](web_programming/daily_horoscope.py)
   * [Download Images From Google Query](web_programming/download_images_from_google_query.py)
   * [Emails From Url](web_programming/emails_from_url.py)
-  * [Fetch Anime And Play](web_programming/fetch_anime_and_play.py)
   * [Fetch Bbc News](web_programming/fetch_bbc_news.py)
   * [Fetch Github Info](web_programming/fetch_github_info.py)
   * [Fetch Jobs](web_programming/fetch_jobs.py)
